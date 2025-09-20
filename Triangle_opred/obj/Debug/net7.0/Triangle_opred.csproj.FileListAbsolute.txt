@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Triangle_opred\Triangle_opred\bin\Debug\net7.0\Triangle_opred.exe
+C:\Users\Student\source\repos\Triangle_opred\Triangle_opred\bin\Debug\net7.0\Triangle_opred.deps.json
+C:\Users\Student\source\repos\Triangle_opred\Triangle_opred\bin\Debug\net7.0\Triangle_opred.runtimeconfig.json
+C:\Users\Student\source\repos\Triangle_opred\Triangle_opred\bin\Debug\net7.0\Triangle_opred.dll
+C:\Users\Student\source\repos\Triangle_opred\Triangle_opred\bin\Debug\net7.0\Triangle_opred.pdb
+C:\Users\Student\source\repos\Triangle_opred\Triangle_opred\obj\Debug\net7.0\Triangle_opred.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Triangle_opred\Triangle_opred\obj\Debug\net7.0\Triangle_opred.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Triangle_opred\Triangle_opred\obj\Debug\net7.0\Triangle_opred.AssemblyInfo.cs
+C:\Users\Student\source\repos\Triangle_opred\Triangle_opred\obj\Debug\net7.0\Triangle_opred.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Triangle_opred\Triangle_opred\obj\Debug\net7.0\Triangle_opred.dll
+C:\Users\Student\source\repos\Triangle_opred\Triangle_opred\obj\Debug\net7.0\refint\Triangle_opred.dll
+C:\Users\Student\source\repos\Triangle_opred\Triangle_opred\obj\Debug\net7.0\Triangle_opred.pdb
+C:\Users\Student\source\repos\Triangle_opred\Triangle_opred\obj\Debug\net7.0\Triangle_opred.genruntimeconfig.cache
+C:\Users\Student\source\repos\Triangle_opred\Triangle_opred\obj\Debug\net7.0\ref\Triangle_opred.dll
