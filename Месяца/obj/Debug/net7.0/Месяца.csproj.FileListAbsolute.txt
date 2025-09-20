@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Месяца\Месяца\bin\Debug\net7.0\Месяца.exe
+C:\Users\Student\source\repos\Месяца\Месяца\bin\Debug\net7.0\Месяца.deps.json
+C:\Users\Student\source\repos\Месяца\Месяца\bin\Debug\net7.0\Месяца.runtimeconfig.json
+C:\Users\Student\source\repos\Месяца\Месяца\bin\Debug\net7.0\Месяца.dll
+C:\Users\Student\source\repos\Месяца\Месяца\bin\Debug\net7.0\Месяца.pdb
+C:\Users\Student\source\repos\Месяца\Месяца\obj\Debug\net7.0\Месяца.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Месяца\Месяца\obj\Debug\net7.0\Месяца.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Месяца\Месяца\obj\Debug\net7.0\Месяца.AssemblyInfo.cs
+C:\Users\Student\source\repos\Месяца\Месяца\obj\Debug\net7.0\Месяца.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Месяца\Месяца\obj\Debug\net7.0\Месяца.dll
+C:\Users\Student\source\repos\Месяца\Месяца\obj\Debug\net7.0\refint\Месяца.dll
+C:\Users\Student\source\repos\Месяца\Месяца\obj\Debug\net7.0\Месяца.pdb
+C:\Users\Student\source\repos\Месяца\Месяца\obj\Debug\net7.0\Месяца.genruntimeconfig.cache
+C:\Users\Student\source\repos\Месяца\Месяца\obj\Debug\net7.0\ref\Месяца.dll
